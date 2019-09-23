@@ -3,7 +3,7 @@ This is the source file including HyDE-DF as used in SWEVO 2019 publication: Lez
 
 Run main_runHyDEDF.m to test HyDE-DF in 50 benchmark functions
 
-Open HyDE.m to see the source code of HyDE-DF
+Open HyDE_DF.m to see the source code of HyDE-DF. Modify or include more objective functions to test the algorithm in a different problem
 
 % NOTE:
 % This program is free software; Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”),
